@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github JavaPop</string>
+    <string name="title_repository">Github Pop</string>
+    <string name="title_pullrequest">Pull Requests</string>
+</resources>
