@@ -1,4 +1,4 @@
-package com.sinngjpeg.gitpop
+package com.sinngjpeg.gitpop.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -12,6 +12,5 @@ class RepositoryActivity : AppCompatActivity() {
         setContentView(binding.root)
         setSupportActionBar(binding.toolbarRepository)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-
     }
 }
